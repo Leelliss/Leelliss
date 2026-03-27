@@ -29,7 +29,9 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Leelliss&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Leelliss&layout=compact&theme=tokyonight"/>
 </p>
+
 ---
+
 ## 💼 Projetos em destaque
 
 - 🌐 Desenvolvimento de site institucional (empresa de climatização e elétrica)  
