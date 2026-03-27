@@ -2,7 +2,7 @@
 
 <p align="center">
 🚀 Desenvolvedora em formação | QA em construção <br>
-💼 Focada em tecnologia, testes e soluções reais
+💼 Transição de carreira para tecnologia
 </p>
 
 ---
@@ -33,39 +33,25 @@
 
 ---
 
-## 🔥 Projetos em destaque
+## 💼 Projetos em destaque
 
-- ❄️ AC Technoair – Site profissional de serviços  
-- 🍬 Sistema de estoque em C#  
-- 🌐 Landing page responsiva  
+- 🌐 Desenvolvimento de site institucional (empresa de climatização e elétrica)  
+  → Estrutura, layout, responsividade e publicação  
+
+- 🍬 Sistema de controle de estoque em C#  
+  → CRUD completo com menu interativo  
+
+- 📊 Automação e organização de dados (Google Sheets + Apps Script)  
+  → Controle e análise de dados em ambiente real  
 
 ---
 
 ## 📱 Contato
 
 <p align="center">
-  <a href="https://instagram.com/leandra_sgarcia">
-    <img src="https://img.shields.io/badge/Instagram-@ac_technoair-purple?style=for-the-badge&logo=instagram">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://wa.me/5511943434008">
-    <img src="https://img.shields.io/badge/WhatsApp-Contato-green?style=for-the-badge&logo=whatsapp">
-  </a>
-</p>
-
----
-
-## 👀 Visualizações
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Leelliss&color=blue"/>
-</p>
-
----
-
-## 🐍 Animação de commits
-
-<p align="center">
-  <img src="https://github.com/Leelliss/Leelliss/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
